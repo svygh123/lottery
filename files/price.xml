@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prices> 
+    <price> 
+        <entry priceid="20111218051547" pricename="书籍" imagename="book.gif" quickkey="F1" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051613" pricename="相机" imagename="camera.gif" quickkey="F2" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051627" pricename="金币" imagename="money.gif" quickkey="F3" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051638" pricename="显示器" imagename="monitor.gif" quickkey="F4" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051651" pricename="电话" imagename="phone.gif" quickkey="F5" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051703" pricename="打印机" imagename="printer.gif" quickkey="F6" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051715" pricename="手机" imagename="telephone.gif" quickkey="F7" isprice="否" createdate="2011-12-18"/>  
+        <entry priceid="20111218051725" pricename="谢谢" imagename="thanks.gif" quickkey="F8" isprice="是" createdate="2011-12-18"/>
+    </price> 
+</prices>
